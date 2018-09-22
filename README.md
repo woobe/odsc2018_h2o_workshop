@@ -31,5 +31,20 @@ Please install the following R packages from CRAN:
 
 That's all :)
 
+### Worked Example
+
+- Regression (Boston Housing) [RMarkdown](https://github.com/woobe/odsc2018_h2o_workshop/blob/master/examples/regression_boston.Rmd) and [HTML](http://nbviewer.jupyter.org/github/woobe/odsc2018_h2o_workshop/blob/master/examples/regression_boston.html?raw=true)
+- Classification (Pima Indians Diabetes) [RMarkdown](https://github.com/woobe/odsc2018_h2o_workshop/blob/master/examples/classification_diabetes.Rmd) and [HTML](http://nbviewer.jupyter.org/github/woobe/odsc2018_h2o_workshop/blob/master/examples/classification_diabetes.html?raw=true)
+
+
+
+
+
+
+
+
+
+
+
 
 
