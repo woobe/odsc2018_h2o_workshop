@@ -27,7 +27,7 @@ Please install the following R packages from CRAN:
 - `install.packages("h2o")`
 - `install.packages("lime")`
 - `install.packages("mlbench")`
-
+- `install.packages("rmarkdown")`
 
 That's all :)
 
